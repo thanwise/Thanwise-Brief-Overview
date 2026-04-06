@@ -2,8 +2,6 @@
 
 > **Your Brand's AI-Powered Transformation Starts Here.**
 
-![Thanwise Logo](https://www.thanwise.com/logo.png)
-
 ## About Thanwise
 
 Thanwise is a forward-thinking AI and creative agency redefining what's possible for modern businesses. We operate at the intersection of artificial intelligence and creative craftsmanship—delivering solutions that are as intelligent as they are impactful.
@@ -171,11 +169,11 @@ Every project is a partnership. Your vision is our starting point. Your success 
 
 ## 📋 Quick Links
 
-- [Services](https://www.thanwise.com/services)
-- [Portfolio](https://www.thanwise.com/portfolio)
-- [Careers](https://www.thanwise.com/careers)
-- [Blog](https://www.thanwise.com/news)
-- [Contact](https://www.thanwise.com/contact)
+- [Services](https://www.thanwise.com)
+- [Portfolio](https://www.thanwise.com)
+- [Careers](https://www.thanwise.com)
+- [Blog](https://www.thanwise.com)
+- [Contact](https://www.thanwise.com)
 
 ---
 
